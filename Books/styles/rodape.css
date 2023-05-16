@@ -1,0 +1,11 @@
+.texto__rodape {
+    color:black;
+    font-family: var(--fonte);
+    font-weight: 700;
+    padding: 1em 1em;
+    background-color: var(--cor-1);
+}
+
+.linha {
+    background-color: var(--cor-1);
+}
